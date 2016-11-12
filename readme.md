@@ -5,7 +5,7 @@ A dependency less url shortner for nodejs
 > Grab it using npm
 
 ```bash
-sudo npm install url-shorty
+npm install url-shorty
 ```
 
 # Usage #
