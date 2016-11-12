@@ -1,0 +1,37 @@
+{
+  "name": "url-shorty",
+  "version": "1.0.0",
+  "description": "a dependencyless url shortner for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hedronium/url-shorty.git"
+  },
+  "keywords": [
+    "url",
+    "shortner",
+    "url",
+    "shortner",
+    "npm",
+    "url",
+    "npm",
+    "url",
+    "shortner",
+    "url",
+    "shortner",
+    "nodejs",
+    "nodejs",
+    "node",
+    "url",
+    "shortner"
+  ],
+  "author": "Hedronium",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hedronium/url-shorty/issues"
+  },
+  "homepage": "https://github.com/Hedronium/url-shorty#readme"
+}
