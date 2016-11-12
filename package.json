@@ -1,6 +1,6 @@
 {
   "name": "url-shorty",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a dependencyless url shortner for nodejs",
   "main": "index.js",
   "scripts": {
