@@ -5,29 +5,31 @@ A dependency less url shortner for nodejs
 > Grab it using npm
 
 ```bash
-npm install url-shorty
+sudo npm install url-shorty
 ```
 
-## Usage
-### Generate short url
+# Usage #
 
+### create short url with links
 ```js
 url_shorty = require('url-shorty');
-url_shorty.encodeUrl('https://example.com/', 125); // => https://example.com/b9
+url_shorty.encodeintstring62('https://google.com/',125);
 ```
 
-### Decode short url
-
+### decode short urls with return links
 ```js
-url_shorty.decodeUrl('https://example.com/b9'); // => 125
+url_shorty = require('url-shorty');
+url_shorty.decodeintstring62('https://google.com/','cb');
 ```
 
-### Generate Slug
+
+### create short integers only
 ```js
-url_shorty.encode64(125); // b9
+url_shorty = require('url-shorty');
+url_shorty.encodeintstring62(125);
 ```
 
-### Decode Slug
+### decode short integers only
 ```js
-url_shorty.decode64('b9');  // 125
-```
+url_shorty = require('url-shorty');
+url_shorty.decodeintstring62('cb');
