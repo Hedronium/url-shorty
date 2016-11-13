@@ -26,12 +26,12 @@ url_shorty.decodeintstring62('https://google.com/','cb');
 ### create short integers only
 ```js
 url_shorty = require('url-shorty');
-url_shorty.encodeintstring62(125);
+url_shorty.encodeint62(125);
 ```
 
 ### decode short integers only
 ```js
 url_shorty = require('url-shorty');
-url_shorty.decodeintstring62('cb');
+url_shorty.decodeint62('cb');
 
 ```
