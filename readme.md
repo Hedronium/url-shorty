@@ -33,3 +33,5 @@ url_shorty.encodeintstring62(125);
 ```js
 url_shorty = require('url-shorty');
 url_shorty.decodeintstring62('cb');
+
+```
